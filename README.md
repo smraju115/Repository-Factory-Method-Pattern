@@ -1,2 +1,3 @@
-1. Repository Factory Pattern
+*Repository:
+1. Factory Pattern
 2. Method Patter.
